@@ -1,3 +1,4 @@
+
 # RaySense
 
 RaySense is a closed-source smart agriculture rover built for precision monitoring and targeted field intervention.
@@ -5,6 +6,8 @@ RaySense is a closed-source smart agriculture rover built for precision monitori
 RaySense is an advanced agricultural robotics project designed to improve how farms monitor crops and respond to field-level problems. The system focuses on combining robotics, sensing technologies, and intelligent decision-making to help farmers detect issues earlier and take more accurate action where needed.
 
 The rover is intended to support modern precision agriculture workflows through features such as crop monitoring, weed detection, and targeted intervention. Instead of applying actions uniformly across an entire field, RaySense aims to identify specific areas that require attention, helping make farming operations more efficient and data-driven.
+
+<img width="1200" height="1600" alt="WhatsApp Image 2026-05-11 at 6 28 00 PM" src="https://github.com/user-attachments/assets/6bc75671-6fac-4e88-a428-84cefff9cf61" />
 
 This project may support capabilities including:
 
