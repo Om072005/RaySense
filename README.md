@@ -21,6 +21,6 @@ This repository exists only as a public-facing reference and does not contain th
 Public Demo
 Explained By our Group Leader [**Aman**](https://github.com/m4xy07)
 - Video Demo: [**YouTube Shorts Demo**](https://youtube.com/shorts/7N9dyCsa4rk)
-Repository Status
 
+Repository Status :
 The repository is intended solely for project visibility and overview purposes. No source code, hardware schematics, or deployment-related components are included publicly at this stage.
