@@ -7,7 +7,7 @@ RaySense is an advanced agricultural robotics project designed to improve how fa
 
 The rover is intended to support modern precision agriculture workflows through features such as crop monitoring, weed detection, and targeted intervention. Instead of applying actions uniformly across an entire field, RaySense aims to identify specific areas that require attention, helping make farming operations more efficient and data-driven.
 
-<img width="1200" height="1600" alt="WhatsApp Image 2026-05-11 at 6 28 00 PM" src="https://github.com/user-attachments/assets/6bc75671-6fac-4e88-a428-84cefff9cf61" />
+<img width="120" height="160" alt="WhatsApp Image 2026-05-11 at 6 28 00 PM" src="https://github.com/user-attachments/assets/6bc75671-6fac-4e88-a428-84cefff9cf61" />
 
 This project may support capabilities including:
 
